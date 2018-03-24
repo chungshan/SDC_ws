@@ -1,0 +1,8 @@
+prefix=/home/jacky/SDC_ws/install
+
+Name: imu_estimate
+Description: Description of imu_estimate
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jacky/SDC_ws/install/lib 
+Requires: 

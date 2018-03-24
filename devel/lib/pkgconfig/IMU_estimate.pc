@@ -1,0 +1,8 @@
+prefix=/home/jacky/SDC_ws/devel
+
+Name: IMU_estimate
+Description: Description of IMU_estimate
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jacky/SDC_ws/devel/lib 
+Requires: 
