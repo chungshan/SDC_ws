@@ -1,2 +1,2 @@
 # SDC_ws
-Self-driving cars 
+Self-driving cars course
