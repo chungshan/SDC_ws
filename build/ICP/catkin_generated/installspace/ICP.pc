@@ -1,0 +1,8 @@
+prefix=/home/jacky/SDC_ws/install
+
+Name: ICP
+Description: Description of ICP
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/jacky/SDC_ws/install/lib 
+Requires: 
